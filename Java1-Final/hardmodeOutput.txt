@@ -1,0 +1,109 @@
+Default Base Commission Pay: 2.5
+Default Commisison Percent: 0.1
+Customers: 
+Susan Rodriguez, age 33
+Bob, age 21
+Mark Johnson, age 67
+
+
+
+Employees: 
+Hal, age 18
+Employee ID: 1
+Hourly Rate: 10.75
+
+Chirstie, age 42
+Employee ID: 2
+Base Rate: 3.0
+Commission: 0.13
+
+Carol, age 22
+Employee ID: 3
+Base Rate: 2.5
+Commission: 0.1
+
+
+
+Invoices
+********
+
+Customer: Susan Rodriguez
+Employee: Hal   ID: 1
+
+Line Items: 
+-----------
+2: Pencil Sharpener
+Qty: 1
+Price Per: 3.0
+
+3: Pen
+Qty: 3
+Price Per: 1.5
+
+4: Notepad
+Qty: 2
+Price Per: 4.0
+
+-----------
+Pre-Tax: 15.5
+Tax: 1.28
+Total Due: 16.78
+
+
+Customer: Bob
+Employee: Chirstie   ID: 2
+
+Line Items: 
+-----------
+1: Vinyl Record
+Qty: 2
+Price Per: 10.0
+
+5: Bag of Marbles
+Qty: 1
+Price Per: 5.0
+
+6: Chunk of Tuna
+Qty: 1
+Price Per: 18.0
+
+7: 1/16 Scale Replica of the Moon
+Qty: 1
+Price Per: 150000.0
+
+-----------
+Pre-Tax: 150043.0
+Tax: 12378.55
+Total Due: 162421.55
+
+
+Commission Earned: 19505.59
+
+
+Customer: Mark Johnson
+Employee: Carol   ID: 3
+
+Line Items: 
+-----------
+8: Generic Brand Soda
+Qty: 3
+Price Per: 1.5
+
+9: Popcorn
+Qty: 1
+Price Per: 5.0
+
+10: Twizzlers, king size
+Qty: 1
+Price Per: 4.5
+
+-----------
+Pre-Tax: 14.0
+Tax: 1.16
+Total Due: 15.15
+
+
+Commission Earned: 1.40
+
+
+Total Commission Earned: 19506.99
